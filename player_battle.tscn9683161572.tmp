@@ -1,0 +1,59 @@
+[gd_scene format=3 uid="uid://cc77xak1uk43v"]
+
+[ext_resource type="Script" uid="uid://j7uq64wghmic" path="res://player_battle.gd" id="1_5je6x"]
+[ext_resource type="Script" uid="uid://cjmw2fbqaac2j" path="res://Player/player_area_3d.gd" id="2_umfus"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_r0pvh"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_5fc1u"]
+material = SubResource("StandardMaterial3D_r0pvh")
+radius = 0.41
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_xraqk"]
+shading_mode = 0
+albedo_color = Color(0.84313726, 0.8039216, 1, 1)
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_5fc1u"]
+radius = 0.3828125
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_xa35s"]
+radius = 0.9954683
+
+[sub_resource type="CameraAttributesPhysical" id="CameraAttributesPhysical_036b0"]
+
+[node name="Player_Battle" type="CharacterBody3D" unique_id=351633094]
+collision_mask = 31
+script = ExtResource("1_5je6x")
+
+[node name="Node" type="Node" parent="." unique_id=146162207]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=278735239]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.6266172, 0)
+mesh = SubResource("CapsuleMesh_5fc1u")
+surface_material_override/0 = SubResource("StandardMaterial3D_xraqk")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=950605371]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.6266172, 0)
+shape = SubResource("CapsuleShape3D_5fc1u")
+
+[node name="PlayerArea3D" type="Area3D" parent="." unique_id=286967903]
+collision_mask = 29
+script = ExtResource("2_umfus")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="PlayerArea3D" unique_id=65358038]
+shape = SubResource("SphereShape3D_xa35s")
+
+[node name="CameraPivot" type="SpringArm3D" parent="." unique_id=1079030599]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.2713995, 0.06728339)
+spring_length = -0.01
+
+[node name="Camera3D" type="Camera3D" parent="CameraPivot" unique_id=1671554210]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0.21219778)
+attributes = SubResource("CameraAttributesPhysical_036b0")
+fov = 80.0
+
+[node name="PlayerLight" type="OmniLight3D" parent="." unique_id=78103679]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 9.24171, -0.12843895)
+light_energy = 0.368
+omni_range = 25.021454
+omni_attenuation = 1.4
