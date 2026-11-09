@@ -10,4 +10,11 @@ Memory/Heirloom:
 - Interaction: Calypso has heightened emotions when Titania witnesses the heirlooms. Titania apologizes out of fear
 Probe Breach
 - What caused the flash: Calypso destroying an ISO equipment
-- 
+- Why Calypso Is There: Hiding/'disappeared' in the icy subterranean ocean
+- Why Titania is sent: Sent on a routine tech-recovery/scout mission.
+- Interaction: Calypso views Titania as an ISO employee/threat. Titania doesn't feel like fighting back because of her instant connection with Calypso
+Star-Fall
+- What caused the flash:Rare celestial energy event over the moon
+- Why Calypso Is There: Absorbing energy to survive
+- Why Titania is sent: Sent to harvest the energy for the ISO power grid
+- Interaction: Calypso Needs the energy source do she defends it. In a moment of realization, Titania understands that Calypso needs this source so she refuses to take the ISO's order of destroying natural resources/Calypso
