@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Enemies/Bug guy.md",
+                "file": "Character/Enemies/Star guys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bug guy"
+              "title": "Star guys"
             }
           }
         ]
@@ -197,8 +197,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "77baf1ea846a9d05",
+  "active": "be860bebd72ee996",
   "lastOpenFiles": [
+    "Character/Enemies/Roach dog.md",
+    "Character/Enemies/Bug guy.md",
     "Worldbuilding/Humans/Mechanical.md",
     "Worldbuilding/Humans/Divine.md",
     "Misc Ideas/Ruminations/Quotes.md",
@@ -209,8 +211,6 @@
     "Character/Main Characters/Calypso/About/Quotes.md",
     "Character/Main Characters/Titania/About/Quotes.md",
     "Character/Main Characters/Titania/About/Titania.md",
-    "Character/Enemies/Star guys.md",
-    "Character/Enemies/Roach dog.md",
-    "Character/Enemies/Bug guy.md"
+    "Character/Enemies/Star guys.md"
   ]
 }
