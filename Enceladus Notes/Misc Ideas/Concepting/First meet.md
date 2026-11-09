@@ -1,6 +1,13 @@
-1. Awakening: 
+Awakening: 
 - What caused the flash: Calypso waking up from deep slumber. (idk if you guys watched boo york monster high but something like that)
 - Why Calypso Is There: Sleeping in her ancient sanctuary
 - Why Titania is sent: ISO sent her to investigate an energy spike.
 - Interaction: Calypso is disoriented from her sleep. Titania gets a glimpse of their previous lifetimes together?
-2. 
+Memory/Heirloom:
+- What caused the flash: A past-life heirloom breaking open
+- Why Calypso Is There: Trying to destroy her painful past memories
+- Why Titania is sent: Fixing corrupted radio/traffic feeds.
+- Interaction: Calypso has heightened emotions when Titania witnesses the heirlooms. Titania apologizes out of fear
+Probe Breach
+- What caused the flash: Calypso destroying an ISO equipment
+- 
