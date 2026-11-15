@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enceladus Notes/Character/Enemies/Bug guy.md",
+                "file": "Enceladus Notes/Character/Enemies/Star guys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bug guy"
+              "title": "Star guys"
             }
           }
         ]
@@ -190,5 +190,14 @@
     }
   },
   "active": "21ef6114c896e67e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Enceladus Notes/Character/Enemies/Roach dog.md",
+    "Enceladus Notes/Character/Enemies/Star guys.md",
+    "Enceladus Notes/Character/Enemies/Bug guy.md",
+    "Enceladus Notes/Misc Ideas/Concepting/First meet.md",
+    "Enceladus Notes/Worldbuilding/Organizations/InterSpacial Traffic Organization (ISTO).md",
+    "Enceladus Notes/Worldbuilding/Humans/Divine.md",
+    "Enceladus Notes/Story/Chronological/5 - Ending.md",
+    "Enceladus Notes/Story/Chronological/1 - Intro.md"
+  ]
 }
