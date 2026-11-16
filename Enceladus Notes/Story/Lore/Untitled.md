@@ -1,5 +1,6 @@
 - what happened in their previous lifetime(s)?
 	- 
 - what do they remember now?
-
+	- calypso remembers and how things ended from last lifetime, and carried over the memories
+	- titania is only able to remember fragments in dreams 
 - connection between past memories & present memories
