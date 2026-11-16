@@ -4,3 +4,10 @@
 	- calypso remembers and how things ended from last lifetime, and carried over the memories
 	- titania is only able to remember fragments in dreams 
 - connection between past memories & present memories
+
+- setting
+	- humans have diverged into two groups
+		- Mechanical humans rely on cybernetic bodies, networks, and protective equipment to travel through space 
+		- Divine humans, like Calypso, can survive in open space without a suit 
+			- that difference shapes where they live and what freedom looks like to each of them
+	- 
