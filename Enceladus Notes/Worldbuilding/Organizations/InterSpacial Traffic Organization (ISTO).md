@@ -1,0 +1,3 @@
+- oversees travel and investigates unusual activity near its routes
+- classifies divine beings as security risks due to being able to cross monitored areas without a ship/transponder
+- 
